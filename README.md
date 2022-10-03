@@ -4,14 +4,19 @@
 **Excepted result:** User should be able to delete item from clipboard history with a single click  
 **Actual result:** After deleting one item in the clipboard history, user have to press the delete button twice to remove another item 
 
+![Bug Glovo](https://user-images.githubusercontent.com/6968778/193654965-49f7efc7-f1a5-4512-bfa9-6cb82dd76b1e.png)
+  
+**Excepted result:** Image should show "Fuchs piper multicolor boabe plic 16g"  
+**Actual result:** Image is showing a different, unrelated product, "Cif Power&Shine"
+
+![Bug Glovo - Cereale in categoria Unelte](https://user-images.githubusercontent.com/6968778/193654975-93ff2884-7d93-41eb-91ce-e6fb178cc1e5.png)
+  
+**Excepted result:** Cereal product should not appear under "Unelte si renovare" category  
+**Actual result:** Cereal product show up under "Unelte si renovare" category 
+
 ![Bid car buton in rusa](https://user-images.githubusercontent.com/6968778/184931862-cdca44a8-8e44-4fe8-a7bf-c788e8dc2748.jpg)
 **Excepted result:** Text button should appear in English  
 **Actual result:** Text button  appear in Russian
-
-![Bug Glovo](https://user-images.githubusercontent.com/6968778/184931866-93ba6f57-7175-4df5-9396-234c3b77e91d.jpg)
-
-**Excepted result:** Email subject should be written without whitespace in front  
-**Actual result:** Email subject have whitespace in front
 
 ![Microsoft Bing Venetia](https://user-images.githubusercontent.com/6968778/184931869-32b4bb0b-7025-4ecd-8541-8c83e224a838.jpeg)
 **Excepted result:** On the right sidebar, content should be about the city of "Venetia" in Italy  
